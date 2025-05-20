@@ -1,7 +1,7 @@
 # Ex.No:1a  			Study of Socket Programming
 ```
-NAME: INFANCIA FELCY P
-REG NO:212223040067
+NAME: GOKUL V E
+REG NO:212224220029
 ```
 ## Aim: 
 To perform a study on Socket Programming
